@@ -8,10 +8,12 @@ var A, B ,res: real
 
 inicio
 // Seção de Comandos
-escreva("Informe um valor real para A: ")
+
+
+escreva("Informe um valor para A: ")
 leia(A)
 
-escreva("Informe um valor real para B: ")
+escreva("Informe um valor para B: ")
 leia(B)
 
 res <- (A+B)

@@ -4,14 +4,20 @@ algoritmo "aula0"
 // Data : 11/05/2022
 // Seção de Declarações 
 
-var A, B ,resultado: real
+var A, B ,resultado: inteiro
 
 inicio
 // Seção de Comandos
-escreva("Informe um valor real para A: ")
+escreval("*************************")
+escreval("Programa para somar A+B: ")
+escreval("*************************")
+
+escreval()
+
+escreva("Informe um valor para A: ")
 leia(A)
 
-escreva("Informe um valor real para B: ")
+escreva("Informe um valor para B: ")
 leia(B)
 resultado <- (A+B)
 
